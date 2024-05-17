@@ -1,6 +1,6 @@
 # B760-Emulator
 
-Diagnosing mulfunctions with the B760 GAMING X motherboard. C# WPF
+Diagnosing malfunctions with the B760 GAMING X motherboard. C# WPF
 
 <h2>Review</h2>
 
@@ -10,7 +10,7 @@ Diagnosing mulfunctions with the B760 GAMING X motherboard. C# WPF
 
 The program contains 2 modes “Test” and “View”.
 <p>
-Mulfunctions:
+Malfunctions:
 <ul>
 <li>"The CMOS battery is low"</li>
 <li>"South Bridge faulty"</li>
@@ -32,7 +32,7 @@ Mulfunctions:
 <h3>"Test"</h3>
 <p>
 Motherboard model with random mulfunction.<br>
-The user is prompted to perform diagnostics to identify this mulfunction.</p>
+The user is prompted to perform diagnostics to identify this malfunction.</p>
 <h3>"View"</h3>
 <p>
 All motherboard faults presented in the program.<br>
