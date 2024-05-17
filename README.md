@@ -3,6 +3,7 @@
 Diagnosing mulfunctions with the B760 GAMING X motherboard. C# WPF
 
 <h2>Review</h2>
+
 ![изображение](https://github.com/sonytruelove/B760-Emulator/assets/42536061/f1cd8834-cc35-4e72-8c83-e2a9eb0d33dc)
 
 The program contains 2 modes “Test” and “View”.
